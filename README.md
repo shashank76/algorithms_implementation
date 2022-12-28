@@ -1,1 +1,1 @@
-# Data Structure Implementation
+# Algorithms Implementation
